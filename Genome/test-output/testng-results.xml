@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Enter email]]>
+    </line>
+    <line>
+      <![CDATA[Enter firstname]]>
+    </line>
+    <line>
+      <![CDATA[Enter lastname]]>
+    </line>
+    <line>
+      <![CDATA[Enter emailaddress]]>
+    </line>
+    <line>
+      <![CDATA[Enter phone]]>
+    </line>
+    <line>
+      <![CDATA[Enter address]]>
+    </line>
+    <line>
+      <![CDATA[Enter city]]>
+    </line>
+    <line>
+      <![CDATA[state name]]>
+    </line>
+    <line>
+      <![CDATA[country name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Zip]]>
+    </line>
+    <line>
+      <![CDATA[click]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-10-18T23:51:14 IST" name="Default suite" finished-at="2021-10-18T23:52:27 IST" duration-ms="73123">
+    <groups>
+    </groups>
+    <test started-at="2021-10-18T23:51:14 IST" name="Default test" finished-at="2021-10-18T23:52:27 IST" duration-ms="73123">
+      <class name="scripts.Test_login">
+        <test-method is-config="true" signature="open_application1()[pri:0, instance:scripts.Test_login@4386f16]" started-at="2021-10-18T23:51:14 IST" name="open_application1" finished-at="2021-10-18T23:51:39 IST" duration-ms="25196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_application1 -->
+        <test-method signature="login()[pri:0, instance:scripts.Test_login@4386f16]" started-at="2021-10-18T23:51:39 IST" name="login" finished-at="2021-10-18T23:52:27 IST" duration-ms="47398" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Enter email]]>
+            </line>
+            <line>
+              <![CDATA[Enter firstname]]>
+            </line>
+            <line>
+              <![CDATA[Enter lastname]]>
+            </line>
+            <line>
+              <![CDATA[Enter emailaddress]]>
+            </line>
+            <line>
+              <![CDATA[Enter phone]]>
+            </line>
+            <line>
+              <![CDATA[Enter address]]>
+            </line>
+            <line>
+              <![CDATA[Enter city]]>
+            </line>
+            <line>
+              <![CDATA[state name]]>
+            </line>
+            <line>
+              <![CDATA[country name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Zip]]>
+            </line>
+            <line>
+              <![CDATA[click]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close_application()[pri:0, instance:scripts.Test_login@4386f16]" started-at="2021-10-18T23:52:27 IST" name="close_application" finished-at="2021-10-18T23:52:27 IST" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_application -->
+      </class> <!-- scripts.Test_login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
